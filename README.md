@@ -12,7 +12,7 @@ curl http://passwd.herokuapp.com | pbcopy
 
 ## Test:
 
-You'll need (foreman)[https://github.com/ddollar/foreman], (request)[https://github.com/mikeal/request] and (mocha)[https://github.com/visionmedia/mocha]:
+You'll need [foreman](https://github.com/ddollar/foreman), [request](https://github.com/mikeal/request) and [mocha](https://github.com/visionmedia/mocha):
 
 ```bash
 $ npm install -g mocha && npm install request
