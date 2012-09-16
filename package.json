@@ -1,0 +1,16 @@
+{
+  "name": "passwd.herokuapp.com",
+  "version": "1.0.0",
+  "description": "Make random alphanumeric password with 8 characters",
+  "author": "Arthur Corenzan <arthur@corenzan.com>",
+  "homepage": "http://passwd.herokuapp.com",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.js",
+  "engine": "0.8.x",
+  "dependencies": {
+    "express": "3.0.x"
+  }
+}
